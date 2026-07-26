@@ -168,28 +168,28 @@ Desenvolvido como parte do Datathon FIAP × Passos Mágicos.
         <img src="https://github.com/gnunes-io.png" width="100px;" alt=""/>
         <br /><sub><b>Gabriel Nunes</b></sub>
       </a><br />
-      ⚙️ Data Architect
+      ⚙️ Product Owner
     </td>
     <td align="center">
       <a href="https://github.com/Jonathan-Paixao">
         <img src="https://github.com/Jonathan-Paixao.png" width="100px;" alt=""/>
         <br /><sub><b>Jonathan Paixão</b></sub>
       </a><br />
-      🐍 Python Dev
+      🐍 Head Developer
     </td>
     <td align="center">
       <a href="https://github.com/rafaelvieiravidal-glitch">
         <img src="https://github.com/rafaelvieiravidal-glitch.png" width="100px;" alt=""/>
         <br /><sub><b>Rafael Vieira</b></sub>
       </a><br />
-      📉 Quant
+      📉 Commercial Analyst
     </td>
     <td align="center">
       <a href="#">
         <img src="https://github.com/ghost.png" width="100px;" alt=""/>
         <br /><sub><b>Wagner da Silva</b></sub>
       </a><br />
-      🧠 AI Engineer
+      🧠 Data Analyst
     </td>
   </tr>
 </table>
